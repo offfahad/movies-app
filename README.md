@@ -10,6 +10,7 @@ A Flutter app to browse the latest movies using the IMDb API. The app is built w
 - **Movie Details**: Detailed information about each movie, including title, synopsis, rating, and more.
 - **Favorites**: Users can add/remove movies to/from their favorites, stored locally using Shared Preferences.
 - **Pagination**: Smooth pagination for infinite scrolling of movies.
+- **Light/Dark Mode**: Smooth light and dark mode functionality.
 - **Secure API Handling**: The IMDb API key is securely managed using the `flutter_dotenv` package.
 - **Cached Images**: Efficient image loading and caching using the `cached_network_image` package.
 - **Dependency Injection**: Clean dependency management using the `get_it` package.
