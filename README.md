@@ -45,6 +45,7 @@ A Flutter app to browse the latest movies using the IMDb API. The app is built w
 
 ## 🖼️ Screenshots
 
-![Screenshot_1736423052-imageonline co-merged-imageonline co-merged](https://github.com/user-attachments/assets/71133978-a46a-4346-9c8e-8840fb76c312)
+![Screenshot_1736423052-imageonline co-merged-imageonline co-merged](https://github.com/user-attachments/assets/57b32ef1-c0cc-49e0-8186-190fa1e1a468)
+
 
 
